@@ -3,7 +3,7 @@
 A Responsive MERN Web LMS Application:
 
 # In This Instance
-The Admin routes are completed.
+The Admin routes are completed
 Following are Admin Routes:
 
 - Show Dashboard
